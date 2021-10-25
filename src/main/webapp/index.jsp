@@ -5,7 +5,8 @@
     <title>JSP - Hello World</title>
 </head>
 <body>
-<h1><%= "Kill all humans!" %>
+<img src="images/bender.jpg"
+<h1><%= "Test" %>
 </h1>
 <br/>
 <a href="hello-servlet">some servlet</a>
