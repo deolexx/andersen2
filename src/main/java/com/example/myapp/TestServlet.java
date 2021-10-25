@@ -20,6 +20,7 @@ public class TestServlet extends HttpServlet {
         out.println("<html><body>");
         out.println("<img src=\"images/dex.jpg\">");
         out.println("<h1>" + message + "</h1>");
+        out.println("<h6>" + message + "</h6>");
         //out.println("dex.jpg");
         out.println("</body></html>");
     }
