@@ -9,7 +9,7 @@ public class TestServlet extends HttpServlet {
     private String message;
 
     public void init() {
-        message = "Test";
+        message = "Surprise!";
     }
 
     public void doGet(HttpServletRequest request, HttpServletResponse response) throws IOException {
@@ -19,6 +19,7 @@ public class TestServlet extends HttpServlet {
         PrintWriter out = response.getWriter();
         out.println("<html><body>");
         out.println("<h1>" + message + "</h1>");
+        out.println("dex.jpg");
         out.println("</body></html>");
     }
 
