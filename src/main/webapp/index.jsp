@@ -8,6 +8,6 @@
 <h1><%= "Kill all humans!" %>
 </h1>
 <br/>
-<a href="hello-servlet">Hello Servlet</a>
+<a href="hello-servlet">some servlet</a>
 </body>
 </html>
