@@ -9,6 +9,6 @@
 <h1><%= "Test" %>
 </h1>
 <br/>
-<a href="test-servlet">some servlet</a>
+<a href="test-servlet">Click me!</a>
 </body>
 </html>
