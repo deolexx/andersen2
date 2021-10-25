@@ -18,6 +18,7 @@ public class TestServlet extends HttpServlet {
         // Hello
         PrintWriter out = response.getWriter();
         out.println("<html><body>");
+        out.println("<img src=\"images/dex.jpg\">");
         out.println("<h1>" + message + "</h1>");
         //out.println("dex.jpg");
         out.println("</body></html>");
