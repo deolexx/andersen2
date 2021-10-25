@@ -5,10 +5,10 @@
     <title>JSP - Hello World</title>
 </head>
 <body>
-<img src="images/bender.jpg"
+<img src="images/bender.jpg">
 <h1><%= "Test" %>
 </h1>
 <br/>
-<a href="hello-servlet">some servlet</a>
+<a href="test-servlet">some servlet</a>
 </body>
 </html>
