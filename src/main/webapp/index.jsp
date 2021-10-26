@@ -8,6 +8,7 @@
 <img src="images/bender.jpg">
 <h1><%= "MyCoolAppWithBlackJack" %></h1>
 <%= "MyCoolAppWithBlackJack" %>
+<%= "MyCoolAppWithBlackJack" %>
 <br/>
 <a href="test-servlet">Click me!</a>
 </body>
