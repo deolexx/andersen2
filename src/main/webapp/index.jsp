@@ -9,6 +9,7 @@
 <h1><%= "MyCoolAppWithBlackJack" %>
 <h4><%= "some fancy text" %>
 <h4><%= "some fancy text" %>
+<h4><%= "some fancy text" %>
 </h1>
 <br/>
 <a href="test-servlet">Click me!</a>
