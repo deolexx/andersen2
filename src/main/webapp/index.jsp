@@ -7,7 +7,7 @@
 <body>
 <img src="images/bender.jpg">
 <h1><%= "MyCoolAppWithBlackJack" %></h1>
-<%= "goooafsdf" %>
+<%= "21 49" %>
 
 <br/>
 <a href="test-servlet">Click me!</a>
